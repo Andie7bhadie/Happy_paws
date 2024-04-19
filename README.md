@@ -12,8 +12,16 @@ Este proyecto consiste en el desarrollo de una aplicación web de servicios para
 <p>-Profesionales: Los profesionales son quienes brindan servicios para mascotas, como veterinarios, peluqueros y cuidadores. Pueden crear y completar su perfil, subir información relevante y gestionar las reservas y reseñas de los clientes.</p>
 <p>-Administradores: Los administradores tienen funciones de gestión y mejora de la plataforma. Pueden añadir funcionalidades, gestionar usuarios y supervisar la actividad en la aplicación.</p>
 
-###Herramientas utilizadas
-
+### Lenguajes utilizados
+<div >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" style="width: 45px; height: 45px;"> &nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" style="width: 45px; height: 45px;"> &nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" style="width: 45px; height: 45px;"> &nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" style="width: 45px; height: 45px;"> &nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" style="width: 45px; height: 45px;"> &nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/800px-Mysql.svg.png" alt="MySQL Logo" style="width: 45px; height: 45px;"> &nbsp;&nbsp;&nbsp;
+    
+</div>
 
 
 ### Estructura de la base de datos 📊
