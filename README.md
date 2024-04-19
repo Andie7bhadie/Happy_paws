@@ -11,7 +11,7 @@ Este proyecto consiste en el desarrollo de una aplicación web de servicios para
 <p>-Clientes: Los clientes son usuarios que buscan servicios para sus mascotas. Pueden explorar perfiles de profesionales, dejar reseñas, contactar con ellos y guardar sus perfiles favoritos.</p>
 <p>-Profesionales: Los profesionales son quienes brindan servicios para mascotas, como veterinarios, peluqueros y cuidadores. Pueden crear y completar su perfil, subir información relevante y gestionar las reservas y reseñas de los clientes.</p>
 <p>-Administradores: Los administradores tienen funciones de gestión y mejora de la plataforma. Pueden añadir funcionalidades, gestionar usuarios y supervisar la actividad en la aplicación.</p>
-
+---
 ### Lenguajes utilizados
 <div >
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" style="width: 45px; height: 45px;"> &nbsp;&nbsp;&nbsp;
@@ -23,6 +23,7 @@ Este proyecto consiste en el desarrollo de una aplicación web de servicios para
     
 </div>
 
+---
 
 ### Estructura de la base de datos 📊
 
